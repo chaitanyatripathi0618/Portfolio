@@ -24,6 +24,7 @@
     "three": "^0.152.2"
   },
   "scripts": {
-    "dev": "vite"
+    "dev": "vite",
+    "build": "vite build"
   }
 }
